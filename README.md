@@ -55,9 +55,9 @@ output : Predictor class: yes, no
 * metrics
 
 
-[Project Notebook: Capstone Project](https://github.com/abdulazizatty/Capstone/blob/master/Capstone.ipynb)
+[Project Notebook: Capstone Bank Marketing](https://github.com/abdulazizatty/Capstone/blob/master/Capstone.ipynb)
 
 [Dataset resource](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
 
-[Blog Post: Understanding Customer Churning with Big Data Analytics](https://medium.com/@bowenchen/understanding-customer-churning-with-big-data-analytics-70ce4eb17669)
+[Blog Post: Machine learning for bank marketing](https://ecommerce123452.blogspot.com/2020/02/capstone-bank-marketing.html)
 
