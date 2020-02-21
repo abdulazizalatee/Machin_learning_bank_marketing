@@ -1,4 +1,4 @@
-# Capstone Project 
+# Capstone Bank Marketing 
 
 ### Project Objective
 
@@ -57,7 +57,7 @@ output : Predictor class: yes, no
 
 [Project Notebook: Capstone Bank Marketing](https://github.com/abdulazizatty/Capstone/blob/master/Capstone.ipynb)
 
-[Dataset resource](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
-
 [Blog Post: Machine learning for bank marketing](https://ecommerce123452.blogspot.com/2020/02/capstone-bank-marketing.html)
+
+[Dataset resource](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
 
